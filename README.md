@@ -1,13 +1,16 @@
-# Voice To text genarated
+# Voice To text genarated use
+
+Live Demo: https://voicetotextgenarete.netlify.app/
 
 
 
+* step 1 -  Click to Start Listening button & please speak.
 
-# Voice To text genarated
+* step 2 -  Click to Stop Listening button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* step 3 -  Click to one time Generated texts.
 
-Currently, two official plugins are available:
+* step 4 -  Click to Copy text button Generated texts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* step 5 -  Paste anywhere Copied text .
+
