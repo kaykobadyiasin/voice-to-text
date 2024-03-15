@@ -19,7 +19,6 @@ function App() {
     return null
   }
 
-
   return (
     <>
       <div>
@@ -27,6 +26,7 @@ function App() {
 
         <div onClick={() => setTextCopy(transcript)} className="max-w-3xl min-h-96 mx-auto border mt-10 rounded-lg p-5 shadow-md flex flex-col justify-between" >
 
+          {/* texts  */}
           <div className='text-gray-600'>
             {!transcript ? 'Start voice...' : transcript}
           </div>
